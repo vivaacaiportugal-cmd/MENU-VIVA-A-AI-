@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if using any build tools)
+node_modules/
+package-lock.json
+
+# Build artifacts
+_site/
+.jekyll-cache/
